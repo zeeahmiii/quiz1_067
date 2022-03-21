@@ -1,0 +1,12 @@
+.bg-black{
+    background-color: rgb(129, 126, 117);
+}
+.size{
+    font-size: medium;
+}
+.border-3 {
+    border: 2px solid red;
+}
+.justify-content-center{
+    justify-content:center ;
+}
